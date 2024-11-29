@@ -1,0 +1,26 @@
+{
+    "SECRET": {
+        "TOKEN_SECRET": "859645",
+        "hosts": [
+            "localhost",
+            "192.168.1.22:7680",
+            "192.168.29.163:7680",
+            "192.168.0.150:7680"
+        ]
+    },
+    "Gamil": {
+        "Email_BCC": "noreplay@gmail.com,support@gmail.com",
+        "EmailFrom": "noreply@example.com",
+        "Email_Password": "Admin@123",
+        "Email_Title": "Compnay Name",
+        "SmtpServer": "smtpout.secureserver.net",
+        "SmtpPort": "465"
+    },
+    "Database": {
+        "ProductionURI": "",
+        "localDatabaseUrl": "mongodb://0.0.0.0:27017/Desbord",
+        "DevelopmentUrl": "",
+        "atlas_password": "ZL1omunEsuSh4VW3",
+        "atlas_user": "Creditor"
+    }
+}
